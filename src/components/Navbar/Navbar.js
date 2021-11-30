@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import {AppBar, Typography} from '@material-ui/core'
-import diary from "../../images/diary.jpg";
+
 import useStyles from './styles.js'
 
 function Navbar() {
